@@ -1,4 +1,4 @@
 # demo
 Github Demo
 <br>
-Author - Sathwik
+Author - Sathwik Godugu
